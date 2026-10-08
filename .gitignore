@@ -1,7 +1,16 @@
 lab_data/
-runs/
+data_lab21/
+data_lab21.zip
+__MACOSX/
+runs/*
+!runs/nop_bai/
+runs/nop_bai/*
+!runs/nop_bai/*.txt
+*.mp4
 TrackEval/
 *.pt
 __pycache__/
 .ipynb_checkpoints/
 .pytest_cache/
+.venv/
+
